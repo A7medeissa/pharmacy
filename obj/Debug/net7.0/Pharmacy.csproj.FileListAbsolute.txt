@@ -1,0 +1,15 @@
+C:\Users\DELL\PHARMACY\src\Pharmacy\bin\Debug\net7.0\Pharmacy.exe
+C:\Users\DELL\PHARMACY\src\Pharmacy\bin\Debug\net7.0\Pharmacy.deps.json
+C:\Users\DELL\PHARMACY\src\Pharmacy\bin\Debug\net7.0\Pharmacy.runtimeconfig.json
+C:\Users\DELL\PHARMACY\src\Pharmacy\bin\Debug\net7.0\Pharmacy.dll
+C:\Users\DELL\PHARMACY\src\Pharmacy\bin\Debug\net7.0\Pharmacy.pdb
+C:\Users\DELL\PHARMACY\src\Pharmacy\obj\Debug\net7.0\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\DELL\PHARMACY\src\Pharmacy\obj\Debug\net7.0\Pharmacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\PHARMACY\src\Pharmacy\obj\Debug\net7.0\Pharmacy.AssemblyInfoInputs.cache
+C:\Users\DELL\PHARMACY\src\Pharmacy\obj\Debug\net7.0\Pharmacy.AssemblyInfo.cs
+C:\Users\DELL\PHARMACY\src\Pharmacy\obj\Debug\net7.0\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\DELL\PHARMACY\src\Pharmacy\obj\Debug\net7.0\Pharmacy.dll
+C:\Users\DELL\PHARMACY\src\Pharmacy\obj\Debug\net7.0\refint\Pharmacy.dll
+C:\Users\DELL\PHARMACY\src\Pharmacy\obj\Debug\net7.0\Pharmacy.pdb
+C:\Users\DELL\PHARMACY\src\Pharmacy\obj\Debug\net7.0\Pharmacy.genruntimeconfig.cache
+C:\Users\DELL\PHARMACY\src\Pharmacy\obj\Debug\net7.0\ref\Pharmacy.dll
